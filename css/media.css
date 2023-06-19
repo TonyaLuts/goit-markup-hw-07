@@ -417,3 +417,12 @@
     width: 360px;
   }
 }
+
+/** ------------------ MODAL-SCROLL ------------------ **/
+
+@media screen and (orientation: landscape) {
+  .modal {
+    top: 0;
+    transform: translate(-50%, 0) scaleY(1);
+  }
+}
