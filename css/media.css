@@ -320,9 +320,6 @@
     padding-bottom: 120px;
   }
 
-  .list-flex {
-  }
-
   .list-flex .features-item {
     width: calc((100% - 72px) / 4);
   }
